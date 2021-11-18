@@ -21,6 +21,7 @@
     "editorGroupHeader.tabsBackground": "#323738",
     "tab.inactiveBackground": "#323738",
     "tab.activeBackground": "#0E1415",
+    "tab.border": "#cecece36",
     "panel.background": "#323738",
     "editor.selectionHighlightBackground": "#DDF0FF33",
     "terminal.ansiWhite": "#cecece",
