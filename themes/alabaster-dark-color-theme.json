@@ -1,0 +1,106 @@
+{
+  "name": "CodeSchool2 Minimal",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#0E1415",
+    "editor.foreground": "#CECECE",
+    "editor.lineHighlightBackground": "#FFFFFF1A",
+    "editor.selectionBackground": "#DDF0FF33",
+    "activityBarBadge.background": "#353a3d",
+    "sideBar.background": "#323738",
+    "sideBarTitle.foreground": "#F0F0F0",
+    "activityBar.background": "#323738",
+    "activityBar.foreground": "#F0F0F0",
+    "titleBar.activeBackground": "#323738",
+    "titleBar.inactiveBackground": "#323738",
+    "statusBar.background": "#323738",
+    "statusBar.noFolderBackground": "#323738",
+    "statusBar.debuggingBackground": "#BFABCB",
+    "editorGroupHeader.tabsBackground": "#323738",
+    "tab.inactiveBackground": "#323738",
+    "tab.activeBackground": "#0E1415",
+    "panel.background": "#323738",
+    "editor.selectionHighlightBackground": "#DDF0FF33"
+  },
+  "tokenColors": [
+    {
+      "name": "Comments",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#DFDF8E"
+      }
+    },
+    {
+      "name": "Strings",
+      "scope": ["string", "string.regexp", "constant.other.symbol"],
+      "settings": {
+        "foreground": "#95CB82"
+      }
+    },
+    {
+      "name": "Strings: Escape Sequences",
+      "scope": "constant.character.escape",
+      "settings": {
+        "foreground": "#ffffff10"
+      }
+    },
+    {
+      "name": "Numbers, Characters",
+      "scope": [
+        "constant.numeric",
+        "constant.character",
+        "constant.keyword",
+        "constant"
+      ],
+      "settings": {
+        "foreground": "#CC8BC9"
+      }
+    },
+    {
+      "name": "Global definitions",
+      "scope": "entity.name",
+      "settings": {
+        "foreground": "#71ADE7"
+      }
+    },
+    {
+      "name": "Punctuation",
+      "scope": "punctuation",
+      "settings": {
+        "foreground": "#708B8D"
+      }
+    },
+    {
+      "name": "Invalid",
+      "scope": "invalid",
+      "settings": {
+        "background": "#96000014",
+        "foreground": "#c33"
+      }
+    },
+    {
+      "name": "Extra: Diff Range",
+      "scope": ["meta.diff.range", "meta.diff.index", "meta.separator"],
+      "settings": {
+        "background": "#DDDDFF",
+        "foreground": "#bbbbbb"
+      }
+    },
+    {
+      "name": "Extra: Diff From",
+      "scope": "meta.diff.header.from-file",
+      "settings": {
+        "background": "#FFDDDD",
+        "foreground": "#bbbbbb"
+      }
+    },
+    {
+      "name": "Extra: Diff To",
+      "scope": "meta.diff.header.to-file",
+      "settings": {
+        "background": "#DDFFDD",
+        "foreground": "#bbbbbb"
+      }
+    }
+  ]
+}

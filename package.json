@@ -1,29 +1,28 @@
 {
-    "name": "theme-codeschool2-minimal",
-    "displayName": "CodeSchool2 Minimal Theme",
-    "description": "Minimalistic dark theme inspired by CodeSchool2 and Alabaster Themes",
-    "version": "0.1.0",
-    "publisher": "bernik",
-    "engines": {
-        "vscode": "^1.25.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "icon": "images/icon.png",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/bernik/vscode-theme-codeschool2-minimal.git"
-
-    },
-    "license": "MIT",
-    "contributes": {
-        "themes": [
-            {
-                "label": "CodeSchool2 Minimal",
-                "uiTheme": "vs-dark",
-                "path": "./themes/CodeSchool2 Minimal-color-theme.json"
-            }
-        ]
-    }
+  "name": "theme-alabaster-dark",
+  "displayName": "Alabaster Dark Theme",
+  "description": "Alabaster Dark theme ported straight from sublime text",
+  "version": "0.1.0",
+  "publisher": "gargakshit",
+  "engines": {
+    "vscode": "^1.25.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gargakshit/vscode-theme-alabaster-dark.git"
+  },
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Alabaster Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/alabaster-dark-color-theme.json"
+      }
+    ]
+  }
 }
