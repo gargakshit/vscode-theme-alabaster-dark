@@ -43,7 +43,7 @@ Additionally:
   it’s not reliable, your brain spends precious brain cycles to re-check
   everything it sees on the screen.
 
-![Screenshot](https://raw.githubusercontent.com/tonsky/vscode-theme-alabaster/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/gargakshit/vscode-theme-alabaster-dark/master/images/screenshot.png)
 
 ## What our users [are saying](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster&ssr=false#review-details)?
 
