@@ -2,7 +2,7 @@
   "name": "theme-alabaster-dark",
   "displayName": "Alabaster Dark Theme",
   "description": "Alabaster Dark theme ported straight from sublime text",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "gargakshit",
   "engines": {
     "vscode": "^1.25.0"
