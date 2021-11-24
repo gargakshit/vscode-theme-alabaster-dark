@@ -62,7 +62,7 @@
       "name": "Strings: Escape Sequences",
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#ffffff10"
+        "foreground": "#CC8BC9"
       }
     },
     {
